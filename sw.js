@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = "mekhbar-offline-v1";
+﻿const CACHE_NAME = "mekhbar-offline-v2";
 const FILES = [
   "./",
   "./index.html",
